@@ -1606,3 +1606,6 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+.heo {
+  margin-top: -0.5rem !important;
+}

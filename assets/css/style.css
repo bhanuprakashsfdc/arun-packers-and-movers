@@ -1613,8 +1613,8 @@ section {
 
 #whatsapp-widget {
   position: fixed;
-  bottom: 30px;
-  right: 80px;
+  bottom: 70px;
+  right: 50px;
   z-index: 9999;
 }
 

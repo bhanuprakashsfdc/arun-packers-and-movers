@@ -264,7 +264,7 @@
 
 document.getElementById("whatsapp-icon").addEventListener("click", function(event) {
   event.preventDefault();
-  var phoneNumber = "919492703607"; // Replace with your phone number
+  var phoneNumber = "919492404119"; // Replace with your phone number
   var text = "&text=Welcome+to+Arun+packers+and+movers.+How+may+i+help+you%3F&type=phone_number";
   var whatsappURL = "https://api.whatsapp.com/send?phone=" + phoneNumber +text;
   window.open(whatsappURL, "_blank");
